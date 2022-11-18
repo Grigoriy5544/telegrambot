@@ -1,5 +1,3 @@
-from email import message
-import imp
 from aiogram import Bot, types, Dispatcher, executor
 
 from config import TOKEN
